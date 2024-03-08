@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+![A photo of me at Joshua Tree National Park](images/IMG_6732.jpg)
+
+
+My name is Sarah Belcher, and I'm a senior at UMass Amherst studying biology. Formerly a pre-med student, I have recently shifted my interests to nursing. After I graduate from UMass Amherst this spring, I will be attending an accelerated nursing program to get my bachelor's in nursing. My goal in the future is to get my master's and become a nurse practitioner.
